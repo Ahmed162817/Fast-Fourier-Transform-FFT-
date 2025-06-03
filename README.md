@@ -15,4 +15,4 @@ FFT algorithms are based on the concept of divide and conquer approach. The FFT 
 In this project it was implemented the FFT for a 32-points sequence with the help of Decimation In Time algorithm with radix-2.
 
 # 32-point FFT diagram
-![image](https://user-images.githubusercontent.com/64384499/127676203-d51eab76-11e9-4a71-af22-0a580097acea.png)
+![Image](https://github.com/user-attachments/assets/d484b861-259b-478e-bfd8-24e4ac766c2f)
